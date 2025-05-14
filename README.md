@@ -66,6 +66,14 @@ This repository contains a Power BI dashboard built to analyze Twitter engagemen
 
 ---
 
+## 📸 Screenshots
+
+- Task 3 during scheduled time :
+
+![Screenshot 2025-05-14 155220](https://github.com/user-attachments/assets/df275193-0580-45ac-8802-241c401282fe)
+
+- Task 3 during non-scheduled time :
+![Screenshot 2025-05-14 235323](https://github.com/user-attachments/assets/e72f86aa-20c8-42f4-8e3d-4837d0fb61d1)
 
 ## 📌 Requirements
 
